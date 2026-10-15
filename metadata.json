@@ -1,0 +1,6 @@
+{
+  "name": "PDF OS - The Next-Gen Document Workspace",
+  "description": "High-performance hybrid PDF platform with client-side processing, AI document intelligence, privacy-first workflow builder, and universal tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
